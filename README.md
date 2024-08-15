@@ -5,7 +5,8 @@ Projeto consiste no codigo utlizado para elaboração do trabalho apresentado pa
 Science e Analytics – 2023
 
 - Graficos: Graficos criado para confecção do trabalho
-- Modelos criados para elaboração do trablaho
+- Modelos: criados para elaboração do trablaho (Analise dos graficos esta contida no documento PDF)
+- Apresentação: Apresentação em pdf
 - Café e tecnologia: Seleção de métodos para projeção do preço da saca de café.pdf:  documento final
 
 
